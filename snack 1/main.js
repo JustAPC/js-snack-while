@@ -18,7 +18,7 @@ console.log (lista);
 
 let x = 0;
 
-let bottone = document.getElementById("bottone")
+let bottone = document.getElementById("bottone");
 
 bottone.addEventListener("click",
 function(){
